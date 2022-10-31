@@ -52,27 +52,17 @@ $$
 >
 > 参考答案：
 >
-> $$
-> \because x^2 + 2xy + 5y^2 = 4
-> $$
-> 
-> $$
-> \therefore (x + y)^2 + 4y^2 = 4
-> $$
-> 
-> $$
-> \therefore \frac{(x + y)^2}{4} + y^2 = 1
-> $$
 >
-> $$
-> \therefore \begin{cases} x + y = 2\cos\theta\\
-> y = \sin\theta\\ \end{cases}
-> $$
-> 
-> $$
-> \therefore \begin{cases} x = 2\cos\theta - \sin\theta\\
-> y = \sin\theta\\ \end{cases}$$
+> $\because x^2 + 2xy + 5y^2 = 4$
 >
-> $$\therefore z = 2x + y = 4\cos\theta - \sin\theta = -\sqrt{17}\sin[\theta + \arctan(-4)]$$
-> 
-> $$\therefore z_{\mathrm{max}} = \sqrt{17}$$
+> $\therefore (x + y)^2 + 4y^2 = 4$
+>
+> $\therefore \frac{(x + y)^2}{4} + y^2 = 1$
+>
+> $\therefore \begin{cases} x + y = 2\cos\theta\\ y = \sin\theta\\ \end{cases}$
+>
+> $\therefore \begin{cases} x = 2\cos\theta - \sin\theta\\ y = \sin\theta\\ \end{cases}$
+>
+> $\therefore z = 2x + y = 4\cos\theta - \sin\theta = -\sqrt{17}\sin[\theta + \arctan(-4)]$
+>
+> $\therefore z_{\mathrm{max}} = \sqrt{17}$
