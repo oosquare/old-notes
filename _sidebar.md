@@ -1,15 +1,14 @@
-- [主页](/README.md)
 - 语文
-  - [beginning-and-ending-examples](/chinese/beginning-and-ending-examples.md)
-  - [cultural-common-sense](/chinese/cultural-common-sense.md)
-  - [fiction-reading-skills](/chinese/fiction-reading-skills.md)
-  - [quotes](/chinese/quotes.md)
-  - [rhetorical-and-artistic-devices](/chinese/rhetorical-and-artistic-devices.md)
-  - [writing-skills-examples](/chinese/writing-skills-examples.md)
-  - [writing-skills](/chinese/writing-skills.md)
+  - [开头结尾示例](/chinese/beginning-and-ending-examples.md)
+  - [文化常识](/chinese/cultural-common-sense.md)
+  - [小说阅读技巧](/chinese/fiction-reading-skills.md)
+  - [经典名言](/chinese/quotes.md)
+  - [艺术手法](/chinese/rhetorical-and-artistic-devices.md)
+  - [精彩表达示例](/chinese/writing-skills-examples.md)
+  - [精彩表达技巧](/chinese/writing-skills.md)
 - 数学
-  - [conic-based-maximum-value-solution](/mathematics/conic-based-maximum-value-solution.md)
+  - [基于圆锥曲线的最值求解](/mathematics/conic-based-maximum-value-solution.md)
 - 物理
-  - [law-of-universal-gravitation](/physics/law-of-universal-gravitation.md)
+  - [万有引力定律](/physics/law-of-universal-gravitation.md)
 - 生物
-  - [gene-frequency-calculation](/biology/gene-frequency-calculation.md)
+  - [基因频率计算](/biology/gene-frequency-calculation.md)
