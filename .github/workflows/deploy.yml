@@ -19,7 +19,7 @@ jobs:
           platform: 'github'
           path: 'dest'
       
-      - run: cp -r ./public/* ./dest/notes
+      - run: cp -r * ./dest/notes
 
       - name: Deploy
         uses: tech-thinker/push-to-repo@main
