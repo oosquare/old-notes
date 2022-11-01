@@ -12,9 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - run: |
-        mv * source
-        rm -rf source/.git
+      - run: mv * source
+      - run: rm -rf source/.git
 
       - name: Clone Destination Repo
         uses: sudosubin/git-clone-action@v1.0.1
