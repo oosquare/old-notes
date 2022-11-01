@@ -10,10 +10,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
-      - run: mv * source
-      - run: rm -rf source/.git
+      - name: Clone Source Repo
+        uses: sudosubin/git-clone-action@v1.0.1
+        with:
+          repository: 'ctj12461/notes'
+          platform: 'github'
+          path: 'source'
 
       - name: Clone Destination Repo
         uses: sudosubin/git-clone-action@v1.0.1
