@@ -12,6 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - run: |
+        mv * source
+        rm -rf source/.git
+
       - name: Clone Destination Repo
         uses: sudosubin/git-clone-action@v1.0.1
         with:
@@ -19,7 +23,7 @@ jobs:
           platform: 'github'
           path: 'dest'
       
-      - run: cp -r * ./dest/notes
+      - run: cp -r ./source/* ./dest/notes
 
       - name: Deploy
         uses: tech-thinker/push-to-repo@main
