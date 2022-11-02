@@ -9,6 +9,7 @@
 - 数学
   - [基于圆锥曲线的最值求解](/mathematics/conic-based-maximum-value-solution.md)
 - 物理
+  - [注意事项](/physics/matters-need-attention.md)
   - [万有引力定律](/physics/law-of-universal-gravitation.md)
 - 生物
   - [基因频率计算](/biology/gene-frequency-calculation.md)
