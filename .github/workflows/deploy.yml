@@ -33,5 +33,5 @@ jobs:
         with:
           source-directory: 'dest'
           destination-github-username: 'ctj12461'
-          destination-repository-name: 'ctj12461.github.io'
+          destination-repository-name: 'site-output'
           target-branch: main
