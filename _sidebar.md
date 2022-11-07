@@ -11,5 +11,7 @@
 - 物理
   - [注意事项](/physics/matters-need-attention.md)
   - [万有引力定律](/physics/law-of-universal-gravitation.md)
+- 化学
+  - [注意事项](/chemistry/matters-need-attention.md)
 - 生物
   - [基因频率计算](/biology/gene-frequency-calculation.md)
