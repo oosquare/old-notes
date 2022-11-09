@@ -2,6 +2,7 @@
   - [开头结尾示例](/chinese/beginning-and-ending-examples.md)
   - [文化常识](/chinese/cultural-common-sense.md)
   - [小说阅读技巧](/chinese/fiction-reading-skills.md)
+  - [诗歌阅读技巧](/chinese/poetry-reading-skill.md)
   - [经典名言](/chinese/quotes.md)
   - [艺术手法](/chinese/rhetorical-and-artistic-devices.md)
   - [精彩表达示例](/chinese/writing-skills-examples.md)
