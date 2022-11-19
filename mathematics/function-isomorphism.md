@@ -122,4 +122,4 @@ $\therefore f(a) = f(2 - b)$
 
 $\because f(x)$ 单调递增
 
-$a = 2 - b \Rightarrow a + b = 2$
+$\therefore a = 2 - b \Rightarrow a + b = 2$
