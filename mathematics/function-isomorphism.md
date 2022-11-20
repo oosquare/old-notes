@@ -30,7 +30,7 @@ $\therefore e^{x + \ln a} + x + \ln a > (x + 2) + \ln (x + 2) = e^{\ln (x + 2)} 
 
 设 $f(x) = e^x + x\ (x > 0)$
 
-$\therefore f(x + \ln a) > f(ln (x + 2)) \Rightarrow x + \ln a > ln (x + 2)$
+$\therefore f(x + \ln a) > f(\ln (x + 2)) \Rightarrow x + \ln a > ln (x + 2)$
 
 设 $g(x) = x - \ln (x + 2) + \ln a\ (x > -2)$
 
@@ -82,7 +82,7 @@ $\because t - \ln t \ge 1$，当且仅当 $t = 1$ 时取等
 
 $\therefore t - \ln t = 1 < (a - 1)x + 1$
 
-$\exist t_0, x_0$ 使 $t_0 - \ln t_0 < (a - 1)x_0 + 1$，不符合条件
+$\exists t_0, x_0$ 使 $t_0 - \ln t_0 < (a - 1)x_0 + 1$，不符合条件
 
 综上，$a \in (-\infty, 1]$
 
@@ -144,9 +144,9 @@ $\therefore f(t) \ge f(x) \Rightarrow f(e^{\frac{x}{a}}) \ge f(x)$
 
 $\therefore \forall x \in (0, +\infty), e^{\frac{x}{a}} > 1$
 
-$\because f’(x) = 1 + \ln x\ (x > 0)$
+$\because f'(x) = 1 + \ln x\ (x > 0)$
 
-$\therefore f’(x) > 0 \Rightarrow x \in (\frac{1}{e}, +\infty), f’(x) < 0 \Rightarrow x \in (0, \frac{1}{e})$
+$\therefore f'(x) > 0 \Rightarrow x \in (\frac{1}{e}, +\infty), f'(x) < 0 \Rightarrow x \in (0, \frac{1}{e})$
 
 当 $x \in (0, \frac{1}{e}]$ 时，$f(x) < 0 < f(e^{\frac{x}{a}})$，$a$ 可以取任意值
 
