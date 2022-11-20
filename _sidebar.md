@@ -10,6 +10,7 @@
 - 数学
   - [基于圆锥曲线的最值求解](/mathematics/conic-based-maximum-value-solution.md)
   - [函数同构](/mathematics/function-isomorphism.md)
+  - [分式函数](/mathematics/fractional-function.md)
 - 物理
   - [注意事项](/physics/matters-need-attention.md)
   - [万有引力定律](/physics/law-of-universal-gravitation.md)
