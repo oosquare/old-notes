@@ -123,3 +123,37 @@ $\therefore f(a) = f(2 - b)$
 $\because f(x)$ 单调递增
 
 $\therefore a = 2 - b \Rightarrow a + b = 2$
+
+
+
+> 已知 $e^{\frac{x}{a}} \ge a\ln x$，求 $a$ 的最大值。
+
+设 $t = e^{\frac{x}{a}}\ (t > 0)$
+
+$\therefore \ln t = \frac{x}{a}$
+
+$\because e^{\frac{x}{a}} \ge a\ln x$
+
+$\therefore t\ln t \ge a\ln x \cdot \frac{x}{a} = x\ln x$
+
+设 $f(x) = x\ln x\ (x > 0)$
+
+$\therefore f(t) \ge f(x) \Rightarrow f(e^{\frac{x}{a}}) \ge f(x)$
+
+假设 $a_{\max} > 0$
+
+$\therefore \forall x \in (0, +\infty), e^{\frac{x}{a}} > 1$
+
+$\because f’(x) = 1 + \ln x\ (x > 0)$
+
+$\therefore f’(x) > 0 \Rightarrow x \in (\frac{1}{e}, +\infty), f’(x) < 0 \Rightarrow x \in (0, \frac{1}{e})$
+
+当 $x \in (0, \frac{1}{e}]$ 时，$f(x) < 0 < f(e^{\frac{x}{a}})$，$a$ 可以取任意值
+
+当 $x \in (\frac{1}{e}, +\infty)$ 时，$f(e^{\frac{x}{a}}) \ge f(x) \Rightarrow e^{\frac{x}{a}} \ge x$
+
+$\therefore \frac{x}{a} \ge \ln x$
+
+$\therefore \frac{1}{a} \ge \left(\frac{\ln x}{x}\right)_{\max} = \frac{1}{e}$
+
+$\therefore a_{\max} = e$
