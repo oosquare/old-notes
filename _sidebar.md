@@ -9,6 +9,7 @@
   - [精彩表达技巧](/chinese/writing-skills.md)
 - 数学
   - [基于圆锥曲线的最值求解](/mathematics/conic-section-based-maximum-value-solution.md)
+  - [圆锥曲线](/mathematics/conic-section.md)
   - [函数同构](/mathematics/function-isomorphism.md)
   - [分式函数](/mathematics/fractional-function.md)
 - 物理
