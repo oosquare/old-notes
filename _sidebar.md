@@ -8,7 +8,7 @@
   - [精彩表达示例](/chinese/writing-skills-examples.md)
   - [精彩表达技巧](/chinese/writing-skills.md)
 - 数学
-  - [基于圆锥曲线的最值求解](/mathematics/conic-based-maximum-value-solution.md)
+  - [基于圆锥曲线的最值求解](/mathematics/conic-section-based-maximum-value-solution.md)
   - [函数同构](/mathematics/function-isomorphism.md)
   - [分式函数](/mathematics/fractional-function.md)
 - 物理
