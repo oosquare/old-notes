@@ -42,8 +42,8 @@ $r_{1\min} = r_{2\min} = a - c$
 
 焦点弦公式：
 
-- 焦点在 $x$ 轴上：$r_1 = a + ex$，$r_2 = a - ex$
-- 焦点在 $y$ 轴上：$r_1 = a + ey$，$r_2 = a - ey$
+- 焦点在 $x$ 轴上：$r_1 = a + ex = \frac{b^2}{a(1 + e\cos \alpha)}$，$r_2 = a - ex = \frac{b^2}{a(1 - e\cos \alpha)}$，其中 $\alpha$ 为焦半径与 $x$ 轴正方向的夹角
+- 焦点在 $y$ 轴上：$r_1 = a + ey = \frac{b^2}{a(1 + e\cos \alpha)}$，$r_2 = a - ey = \frac{b^2}{a(1 - e\cos \alpha)}$，其中 $\alpha$ 为焦半径与 $y$ 轴正方向的夹角
 
 通径：$\frac{2b^2}{a}$
 
@@ -148,6 +148,5 @@ $S_{\triangle F_1PF_2} = c|y_P| = \frac{b^2}{\tan \frac{\theta}{2}}$
 
 - 焦点在 $x$ 轴上：$\begin{cases} x = a\cosh \theta = \frac{a(e^x + e^{-x})}{2}\\ y = b\sinh\theta = \frac{b(e^x - e^{-x})}{2}\\ \end{cases}$
 - 焦点在 $y$ 轴上：$\begin{cases} x = b\sinh \theta = \frac{b(e^x - e^{-x})}{2}\\ y = a\cosh \theta = \frac{a(e^x + e^{-x})}{2}\\ \end{cases}$
-
 
 ## 抛物线
