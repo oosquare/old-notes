@@ -150,3 +150,31 @@ $S_{\triangle F_1PF_2} = c|y_P| = \frac{b^2}{\tan \frac{\theta}{2}}$
 - 焦点在 $y$ 轴上：$\begin{cases} x = b\sinh \theta = \frac{b(e^x - e^{-x})}{2}\\ y = a\cosh \theta = \frac{a(e^x + e^{-x})}{2}\\ \end{cases}$
 
 ## 抛物线
+
+默认以 $y^2 = 2px\ (p > 0)$ 为例，$F$ 为抛物线焦点，$AB$ 为过 $F$ 的弦，其倾斜角为 $\theta$。
+
+![](../../assets/mathematics/conic-section/parabola.svg)
+
+### 焦点弦
+
+$|AB| = x_A + x_B + p = \frac{2p}{\sin^2 \theta}$
+
+$|AF| = \frac{p}{1 - \cos\theta}$
+
+$|BF| = \frac{p}{1 + \cos\theta}$
+
+$\frac{1}{|AF|} + \frac{1}{|BF|} = \frac{2}{p}$
+
+通径：$2p$
+
+### 切线方程/切点弦方程
+
+设切点为 $(x_0, y_0)$，则切线方程/切点弦方程为 $y_0y = p(x + x_0)$。
+
+### 定值关系
+
+$x_Ax_B = \frac{p^2}{4}, y_Ay_B = -p^2$
+
+以 $AB$ 为直径的圆与准线相切。
+
+若 $MN$ 为抛物线的一条弦，且 $OM \perp ON$，则 $MN$ 过定点 $(2p, 0)$。
