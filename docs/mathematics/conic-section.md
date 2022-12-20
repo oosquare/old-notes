@@ -34,13 +34,13 @@ $S_{\triangle F_1PF_2} = c|y_P| = b^2 \tan \frac{\theta}{2}$
 
 当 $P$ 与 $B_1$ 或 $B_2$ 重合时，$\theta$ 最大，有 $S_{\triangle F_1PF_2 \max} = bc$。
 
-### 焦点弦
+### 焦半径
 
 $r_{1\max} = r_{2\max} = a + c$
 
 $r_{1\min} = r_{2\min} = a - c$
 
-焦点弦公式：
+焦半径公式：
 
 - 焦点在 $x$ 轴上：$r_1 = a + ex = \frac{b^2}{a(1 + e\cos \alpha)}$，$r_2 = a - ex = \frac{b^2}{a(1 - e\cos \alpha)}$，其中 $\alpha$ 为焦半径与 $x$ 轴正方向的夹角
 - 焦点在 $y$ 轴上：$r_1 = a + ey = \frac{b^2}{a(1 + e\cos \alpha)}$，$r_2 = a - ey = \frac{b^2}{a(1 - e\cos \alpha)}$，其中 $\alpha$ 为焦半径与 $y$ 轴正方向的夹角
@@ -117,12 +117,12 @@ $\frac{b^2}{a^2} = e^2 - 1$
 
 $S_{\triangle F_1PF_2} = c|y_P| = \frac{b^2}{\tan \frac{\theta}{2}}$
 
-### 焦点弦
+### 焦半径
 
 - 点与焦点在同侧：$r_{1\min} = r_{2\min} = c - a$
 - 点与焦点在异侧侧：$r_{1\min} = r_{2\min} = c + a$
 
-焦点弦公式：
+焦半径公式：
 
 - 焦点在 $x$ 轴上：$r_1 = |a + ex|$，$r_2 = |a - ex|$
 - 焦点在 $y$ 轴上：$r_1 = |a + ey|$，$r_2 = |a - ey|$
@@ -156,7 +156,7 @@ $S_{\triangle F_1PF_2} = c|y_P| = \frac{b^2}{\tan \frac{\theta}{2}}$
 
 ![](../../assets/mathematics/conic-section/parabola.svg)
 
-### 焦点弦
+### 焦半径/焦点弦
 
 $|AB| = x_A + x_B + p = \frac{2p}{\sin^2 \theta}$
 
