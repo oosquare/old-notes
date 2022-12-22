@@ -157,3 +157,39 @@ $\therefore \frac{x}{a} \ge \ln x$
 $\therefore \frac{1}{a} \ge \left(\frac{\ln x}{x}\right)_{\max} = \frac{1}{e}$
 
 $\therefore a_{\max} = e$
+
+
+
+> 已知定义域为 $\mathrm{R}$ 的函数 $f(x)$ 满足 $f(x) + xf'(x) > 1$，求 $(1 + x)f(1 - x^2) > f(1 - x) + x$ 的解集。
+
+$\because f(x) + xf'(x) > 1$
+
+$\therefore (f(x) - 1) + xf'(x) > 0$ 即 $\left[x(f(x) - 1)\right]' > 0$
+
+当 $x = 1$ 时，$f(x) + xf'(x) > 1 \Rightarrow f(0)> 1$
+
+$\therefore (1 + x)f(1 - x^2) > f(1 - x) + x \Rightarrow f(0) > 1$
+
+$\therefore x \in \{1\}$ 为解集的子集
+
+当 $x < 1$ 时
+
+$\therefore$ 两边同乘 $1 - x$ 得 $(1 - x^2)f(1 - x^2) > (1 - x)f(1 - x) + x - x^2$
+
+$\therefore (1 - x^2)f(1 - x^2) + x^2 - 1 > (1 - x)f(1 - x) + x - 1$
+
+$\therefore (1 - x^2)\left(f(1 - x^2) - 1\right) > (1 - x)\left(f(1 - x) - 1\right)$
+
+$\therefore 1 - x^2 > 1 - x$
+
+$\therefore x \in (0, 1)$ 为解集的子集
+
+当 $x > 1$ 时
+
+同理 $(1 - x^2)\left(f(1 - x^2) - 1\right) < (1 - x)\left(f(1 - x) - 1\right)$
+
+$\therefore 1 - x^2 < 1 - x$
+
+$\therefore x \in (1, \infty)$ 为解集的子集
+
+综上，解集为 $(0, \infty)$
