@@ -1,4 +1,4 @@
-name: build
+name: deploy
 
 on:
   push:
@@ -11,18 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone Source Repo
-        uses: sudosubin/git-clone-action@v1.0.1
+        uses: actions/checkout@v3
         with:
-          repository: 'ctj12461/notes'
-          platform: 'github'
+          submodules: true
           path: 'source'
 
       - name: Clone Destination Repo
-        uses: sudosubin/git-clone-action@v1.0.1
-        with:
-          repository: 'ctj12461/site-output'
-          platform: 'github'
-          path: 'dest'
+        run: git clone https://github.com/ctj12461/site-output dest
       
       - run: cp -rf ./source/* ./dest/notes
 
