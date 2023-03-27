@@ -13,6 +13,8 @@
   - [函数同构](/docs/mathematics/function-isomorphism.md)
   - [分式函数](/docs/mathematics/fractional-function.md)
   - [常用公式与不等式](/docs/mathematics/common-formulas-and-inequations.md)
+- 英语
+  - [读后续写素材](/docs/english/writing-materials.md)
 - 物理
   - [注意事项](/docs/physics/matters-need-attention.md)
   - [万有引力定律](/docs/physics/law-of-universal-gravitation.md)

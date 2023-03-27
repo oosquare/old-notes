@@ -1,0 +1,1 @@
+{"rule":"COMMA_COMPOUND_SENTENCE_2","sentence":"^\\QMy heart was warm and my tongue tricked me, leaving me laughter and tears.\\E$"}
