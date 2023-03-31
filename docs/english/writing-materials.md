@@ -46,7 +46,7 @@
 ### Sorrowful
 
 - Sentences
-  - The moment I pulled off my shoes, **a crushing sense of desperate swelled up again** as the scaring ant came out.
+  - The moment I pulled off my shoes, **a crushing sense of desperation swelled up again** as the scaring ant came out.
   - The cloud of gloom covered his face.
 
 ### Nervous
