@@ -13,6 +13,7 @@
   - [函数同构](/docs/mathematics/function-isomorphism.md)
   - [分式函数](/docs/mathematics/fractional-function.md)
   - [常用公式与不等式](/docs/mathematics/common-formulas-and-inequations.md)
+  - [常用常数](/docs/mathematics/common-constants.md)
 - 英语
   - [读后续写素材](/docs/english/writing-materials.md)
 - 物理
