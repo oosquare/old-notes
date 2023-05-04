@@ -5,6 +5,8 @@
 - Sentences
   - She **settled herself onto the ground opposite me**, whispering to comfort me.
   - I **bent down** and patted the boy on the head.
+  - He **dragged himself** towards Mom's bedroom.
+  - Curious to know what she was writing, Thomas **slipped into** the study without making noises.
 
 ### Hands
 
@@ -12,6 +14,10 @@
   - stroke *one's* head gently
 - Sentences
   - She **caressed (轻抚) my head** gently.
+
+### Eyes
+
+- He **glimpsed (瞥见)** a familiar word.
 
 ## Psychology/Expression
 
@@ -42,6 +48,7 @@
   - **Tears blurring my sight**, I knew they deserved the champion for perseverance.
   - **Bathed in the enjoyable sunlight**, I was more determined to share the kindness.
   - Having heard my story, the boy **shed tears of emotion**.
+  - **He couldn't contain himself**, tears rolling down his cheeks.
 
 ### Sorrowful
 
@@ -68,6 +75,7 @@
   - summon up all *one's* courage
 - Sentences
   - They were standing on the platform, **with their nervousness killed by confidence**.
+  - Each time Thomas heard them, **the passion to the dream and the confidence in his body was fired**.
 
 ### Surprised
 
@@ -98,6 +106,9 @@
   - immerse (沉浸) *oneself* in *[doing] something*
   - step up *one's* effort in *[doing] something* 
   - put every ounce into *doing something*
+  - push *somebody* forward
+- Sentences
+  - **Tired and frustrated though Thomas was**, he would devoted himself wholly into his dream the next day.
 
 ### Interaction/Relationship
 
@@ -110,6 +121,7 @@
 - Sentences
   - No sooner had we finished our performance than **thunderous applause lingered around the hall**.
   - The classroom **was filled with energy and joy**.
+  - He saw the tree once again, but with fresh green leaves at the tips of the branches, which were reaching high into the blue sky.
 
 ## Miscellaneous
 
