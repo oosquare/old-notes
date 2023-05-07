@@ -193,3 +193,21 @@ $\therefore 1 - x^2 < 1 - x$
 $\therefore x \in (1, \infty)$ 为解集的子集
 
 综上，解集为 $(0, \infty)$
+
+
+
+> 已知函数 $f(x) = e^{x - 1} - ax - x\ln x + x^2 + \frac{x}{a}\ (a \ne 0)$ 有 $2$ 个零点，求 $a$ 的取值范围。
+
+$\because f(x) = 0$ 有 $2$ 个零点
+
+$\therefore \frac{e^{x - 1}}{x} + x - \ln x = a - \frac{1}{a}\ (a \ne 0)$ 有 $2$ 个根
+
+$\therefore e^{x - 1 - \ln x} + x - \ln x - 1 = a - \frac{1}{a} - 1\ (a \ne 0)$ 有 $2$ 个根
+
+设 $t = x - 1 - \ln x$，易知 $t \ge 0$，当且仅当 $x = 0$ 时取等
+
+$\therefore y = e^t + t \in [1, \infty)$
+
+$\therefore a - \frac{1}{a} - 1 > 1$
+
+$\therefore a \in (1 - \sqrt{2}, 0) \cup (1 + \sqrt{2}, \infty)$
