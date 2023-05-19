@@ -62,7 +62,7 @@ $$
 
 $$
 2\ln x \ge x - \frac{1}{x}\ \left(0 < x \le 1\right) \\
-2\ln x \ge x - \frac{1}{x}\ \left(x \ge 1\right) \\
+2\ln x \le x - \frac{1}{x}\ \left(x \ge 1\right) \\
 $$
 
 在 $x = 1$ 时取等。
