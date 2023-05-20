@@ -180,3 +180,50 @@ f(x) = \frac{1}{\sqrt{2\pi}\sigma}\exp\left[-\frac{(x - \mu)^2}{2\sigma^2}\right
 E(X) = \mu \\
 D(X) = \sigma^2
 $$
+
+## 立体几何
+
+### 常见几何体性质
+
+- 正四面体
+  - $h = \frac{\sqrt{6}}{3}a$
+  - $V = \frac{\sqrt{2}}{12}a^3$
+- 正方体
+  - 相邻面对角线组成的平面、顶点间的距离为体对角线的 $\frac{1}{3}$
+  - 连接面对角线组成正四面体
+- 长方体
+  - 连接面对角线组成相对的棱长度相同的四面体
+
+## 向量
+
+### 投影
+
+$\boldsymbol{a}$ 在 $\boldsymbol{b}$ 上的投影向量：$\frac{\boldsymbol{a} \cdot \boldsymbol{b}}{|\boldsymbol{b}|^2}\boldsymbol{b}$
+
+### 叉积
+
+$$
+\begin{bmatrix}
+x_1 \\
+y_1 \\
+z_1
+\end{bmatrix}
+\times 
+\begin{bmatrix}
+x_2 \\
+y_2 \\
+z_2
+\end{bmatrix}
+=
+\begin{bmatrix}
+y_1z_2 - y_2z_1 \\
+z_1x_2 - z_2x_1 \\
+x_1y_2 - x_2y_1
+\end{bmatrix}
+$$
+
+### 定比分点
+
+$$
+\overrightarrow{AP} = \lambda\overrightarrow{AB} \iff \overrightarrow{OP} = (1 - \lambda)\overrightarrow{OA} + \lambda\overrightarrow{OB}
+$$
